@@ -1,11 +1,11 @@
 <template>
-    <div>
-        <TheHeader />
+  <div>
+    <TheHeader />
 
-        <div class="px-3 py-10 md:px-10">
-            <RouterView />
-        </div>
+    <div class="px-3 py-10 md:px-10">
+      <RouterView />
     </div>
+  </div>
 </template>
 
 <script>
